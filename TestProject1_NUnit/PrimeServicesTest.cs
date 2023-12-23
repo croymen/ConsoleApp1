@@ -5,7 +5,7 @@ using NUnit.Framework;
 namespace Prime.UnitTests.Services
 {
     [TestFixture]
-    public class PrimeService_IsPrimeShould
+    public class PrimeServicesTest
     {
         private PrimeService _primeService;
 

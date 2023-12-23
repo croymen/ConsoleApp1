@@ -103,3 +103,4 @@ C:\Dev\Csharp\ConsoleApp1\TestProject1_NUnit\bin\Debug\net8.0\ConsoleApp2.runtim
 C:\Dev\Csharp\ConsoleApp1\TestProject1_NUnit\bin\Debug\net8.0\ConsoleApp2.exe
 C:\Dev\Csharp\ConsoleApp1\TestProject1_NUnit\bin\Debug\net8.0\ConsoleApp2.dll
 C:\Dev\Csharp\ConsoleApp1\TestProject1_NUnit\bin\Debug\net8.0\ConsoleApp2.pdb
+c:\Dev\Csharp\ConsoleApp1\TestProject1_NUnit\obj\Debug\net8.0\TestProject1_NUnit.sourcelink.json
