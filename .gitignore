@@ -2,10 +2,10 @@ Debug/
 Release/
 bin/
 obj/
+.vs/
 *.vsidx
 *.testlog
 *.manifest
-*.json
 *.props
 *.editorconfig
 *.cache
