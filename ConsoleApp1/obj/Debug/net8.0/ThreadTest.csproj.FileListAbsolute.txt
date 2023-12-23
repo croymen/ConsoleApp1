@@ -1,0 +1,14 @@
+C:\Dev\Csharp\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ThreadTest.exe
+C:\Dev\Csharp\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ThreadTest.deps.json
+C:\Dev\Csharp\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ThreadTest.runtimeconfig.json
+C:\Dev\Csharp\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ThreadTest.dll
+C:\Dev\Csharp\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ThreadTest.pdb
+C:\Dev\Csharp\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ThreadTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Csharp\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ThreadTest.AssemblyInfoInputs.cache
+C:\Dev\Csharp\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ThreadTest.AssemblyInfo.cs
+C:\Dev\Csharp\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ThreadTest.csproj.CoreCompileInputs.cache
+C:\Dev\Csharp\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ThreadTest.dll
+C:\Dev\Csharp\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ThreadTest.dll
+C:\Dev\Csharp\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ThreadTest.pdb
+C:\Dev\Csharp\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ThreadTest.genruntimeconfig.cache
+C:\Dev\Csharp\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ThreadTest.dll
